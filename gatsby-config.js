@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/concept`,
   siteMetadata: {
     title: `BCLo-Ving Tsun`,
     description: `FROM FORM TO NO FORM.`,

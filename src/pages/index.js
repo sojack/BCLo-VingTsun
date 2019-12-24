@@ -9,7 +9,7 @@ import logo from "../images/bclo-logo.png"
 const IndexPage = () => (
   <div class="container">
     <SEO title="Home" keywords={[`Ving Tsun`, `academy`]} />
-    <div class="item item_001 link"><img class="bclo-logo" src={logo} /></div>
+    <div class="item item_001 link"><img class="bclo-logo" src={logo} alt="BCLo-VingTsun Logo"/></div>
     <div class="item item_002 link"><a href="#">About Us</a></div>
     <div class="item item_003"></div>
     <div class="item item_004 link"><a href="#">Contact Us</a></div>
@@ -28,6 +28,12 @@ const IndexPage = () => (
     </div>
     <div class="item item_009 link"><a href="#">Training Sets</a></div>
     <div class="item item_010 main_txt">
+
+    </div>
+    <div class="item item_011"></div>
+    {/* <div class="item item_012">12</div> */}
+    <div class="item item_013"></div>
+    <div class="item item_014 main_txt">
     <h1>FROM FORM TO NO FORM</h1>
       <ul>
         <li>Ving Tsun’s emphasis on close contact combat technique lends itself to the training of reflexes.  Many of the unique features of Ving Tsun are to be found from its famous “Sticky Hand” practice, the three training sets and the wooden dummy. </li>
@@ -40,12 +46,6 @@ const IndexPage = () => (
         <li>從有形的模式訓練-詠春的三套拳術（小念頭、尋橋和標指）再加上七節木人樁法，這全是一種有形態的段練！然後再運用於黐手的訓練中,時日以久就能夠產生自然反應的本能, 這就是形的誕生！</li>
         <li>詠春的黐手練習是一種模擬真實搏鬥但有規限方式的段練！學生將所學的拳套和木人樁法所謂有形態的技巧運用其中，長期的訓練下就會產生自然反應的感覺直至達到無形的境界！</li>
       </ul>
-    </div>
-    <div class="item item_011"></div>
-    {/* <div class="item item_012">12</div> */}
-    <div class="item item_013"></div>
-    <div class="item item_014 main_txt">
-
     </div>
   </div>
 )
