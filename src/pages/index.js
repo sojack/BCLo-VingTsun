@@ -28,24 +28,22 @@ const IndexPage = () => (
     </div>
     <div class="item item_009 link"><a href="#">Training Sets</a></div>
     <div class="item item_010 main_txt">
-
     </div>
     <div class="item item_011"></div>
-    {/* <div class="item item_012">12</div> */}
-    <div class="item item_013"></div>
     <div class="item item_014 main_txt">
-    <h1>FROM FORM TO NO FORM</h1>
+      <h1>FROM FORM TO NO FORM</h1>
       <ul>
-        <li>Ving Tsun’s emphasis on close contact combat technique lends itself to the training of reflexes.  Many of the unique features of Ving Tsun are to be found from its famous “Sticky Hand” practice, the three training sets and the wooden dummy. </li>
+        <li>ing Tsun’s emphasis on close contact combat technique lends itself to the training of reflexes.  Many of the unique features of Ving Tsun are to be found from its famous “Sticky Hand” practice, the three training sets and the wooden dummy.</li>
         <li>The development of reflexes must be starting with the form-based training, such as the training sets and the wooden dummy techniques.  All of these over time will become a natural reflex that can be used in the “Sticky Hand” practice.</li>
         <li>The “Sticky Hand” practice models the real fight scenarios, but with rules.  So students will be able to apply their form-learning techniques within this model and eventually those forms will become “no form” over time as their reflexes develop.</li>
       </ul>
       <h1>從形至無形</h1>
       <ul>
-        <li>詠春拳是一種近距離的搏鬥拳術，其主要訓練目的就是達到有本能反應、不花思考的應對能力！</li>
-        <li>從有形的模式訓練-詠春的三套拳術（小念頭、尋橋和標指）再加上七節木人樁法，這全是一種有形態的段練！然後再運用於黐手的訓練中,時日以久就能夠產生自然反應的本能, 這就是形的誕生！</li>
-        <li>詠春的黐手練習是一種模擬真實搏鬥但有規限方式的段練！學生將所學的拳套和木人樁法所謂有形態的技巧運用其中，長期的訓練下就會產生自然反應的感覺直至達到無形的境界！</li>
+        <li>詠春拳是一種近距離的搏鬥拳術，其主要訓練目的就是能夠達到出於本能反應、不花思考的應對能力！</li>
+        <li>從有形的模式訓練-詠春的三套拳術（小念頭、尋橋和標指）再加上七節木人樁法，這全都是一種有形態的鍛鍊！然後再運用於黐手的訓練中, 時日一久就能夠產生自然反應的本能, 這就是形的誕生！</li>
+        <li>詠春的黐手練習是一種模擬真實搏鬥但有規限方式的鍛鍊！學生將所學的拳套和木人樁法所謂有形態的技巧運用其中，長期的訓練下就會產生自然反應的感覺直至達到無形的境界！正所謂學之於有形、用之於無形，不巧思索的應對能力才是練武的最高境界！</li>
       </ul>
+      <p class="copyright">Copyright 2019 &copy; BCLo-VingTsun</p>
     </div>
   </div>
 )
