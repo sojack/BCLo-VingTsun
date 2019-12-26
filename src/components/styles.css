@@ -159,15 +159,15 @@ h1 + ul{
 
 .item_010 {
     background-color: var(--orange);
-}
-
-.item_011 {
-	background-color: var(--blue);
 	background-image: url("../images/bclo-icon-simple.png");
     background-repeat: no-repeat;
 	background-position-x: center;
 	background-position-y: center;
-	background-size: contain;
+	background-size: contain;}
+
+.item_011 {
+	background-color: var(--blue);
+
 }
 
 .item_012 {

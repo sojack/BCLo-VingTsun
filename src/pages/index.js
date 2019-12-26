@@ -10,6 +10,7 @@ function IndexPage() {
   const contact_modal = useRef(null)
   const gallery_modal = useRef(null)
   const training_modal = useRef(null)
+  const history_modal = useRef(null)
 
 
   const event_about_open = (e)=>{ 
@@ -28,6 +29,10 @@ function IndexPage() {
     e.preventDefault();
     training_modal.current.style.display = "block"
   }
+  const event_history_open = (e)=>{ 
+    e.preventDefault();
+    history_modal.current.style.display = "block"
+  }
 
   const event_modal_close = (e)=>{ 
     e.preventDefault();
@@ -35,6 +40,7 @@ function IndexPage() {
     contact_modal.current.style.display = "none";
     gallery_modal.current.style.display = "none";
     training_modal.current.style.display = "none";
+    history_modal.current.style.display = "none";
   }
 
   return(
@@ -54,8 +60,13 @@ function IndexPage() {
         <p>師承詠春派馮漢師父門下, 師公乃佛山派宗師葉問。自一九九Ｏ年開始學習詠春至今, 並經常參與馮漢師父的詠春班及研究班, 亦以業餘性質開班授徒。</p>
       </div>
       <div className="item item_009 link"><a href="/" onClick={event_training_open}>Training Sets</a></div>
-      <div className="item item_010 main_txt"> </div>
-      <div className="item item_011"></div>
+      <div className="item item_010 main_txt">
+        <h1>News & Updates</h1>
+        <ul>
+          <li>Opening day to be announced soon!</li>
+        </ul>
+      </div>
+      <div className="item item_011 link"><a href="/" onClick={event_history_open}>History</a></div>
       <div className="item item_014 main_txt">
         <h1>FROM FORM TO NO FORM</h1>
         <ul>
@@ -105,6 +116,13 @@ function IndexPage() {
         <div className="modal-content">
           <span className="close-btn" onClick={event_modal_close}>&times;</span>
           <h1>Gallery</h1>
+        </div>
+      </div>
+
+      <div ref={history_modal} className="modal">
+        <div className="modal-content">
+          <span className="close-btn" onClick={event_modal_close}>&times;</span>
+          <h1>History</h1>
         </div>
       </div>
 
