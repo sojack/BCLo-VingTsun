@@ -13,6 +13,10 @@ function IndexPage() {
     e.preventDefault();
     about_modal.current.style.display = "block"
   }
+  const event_about_close = (e)=>{ 
+    e.preventDefault();
+    about_modal.current.style.display = "none"
+  }
 
   return(
     <div className="container">
@@ -50,17 +54,15 @@ function IndexPage() {
       </div>
 
       <div ref={about_modal} className="modal">
-        <div className="modal-header">
-          <span className="close-btn" ref={about_close}>&times;</span>
-          <h1>I am the Header</h1>
-        </div>
         <div className="modal-content">
-          <p>this is the text inside the modal</p>
-        </div>
-        <div className="modal-footer">
-          <h2>I am the Footer</h2>
+          <span className="close-btn" ref={about_close} onClick={event_about_close}>&times;</span>
+          <h1>A brief introduction of <em>Sifu</em> Benny Lo:</h1>
+          <p>A big fan of Chinese martial arts who learned Ving Tsun under Master Stewart H. Fung, a former student of Grand Master Yip Man in Hong Kong.  Benny started to learn Ving Tsun in 1990, graduated from Master Fung in 1994 and he is still an active member of Master Fung’s Ving Tsun Research Class.  He also teaches Ving Tsun on a part-time basis.</p>
+          <h1>羅樹強師父簡介:</h1>
+          <p>師承詠春派馮漢師父門下, 師公乃佛山派宗師葉問。自一九九Ｏ年開始學習詠春至今, 並經常參與馮漢師父的詠春班及研究班, 亦以業餘性質開班授徒。</p>
         </div>
       </div>
+      
     </div>
   )
 
