@@ -283,7 +283,7 @@ h1 + ul{
 .modal {
 	display: none;
 	position: fixed; 
-	padding-top: 50px;
+	padding-top: 2em;
 	left: 0; 
 	top: 0;
 	width: 100%;
@@ -296,11 +296,11 @@ h1 + ul{
 	background-color: white;
 	padding: 20px; 
 	margin: auto; 
-	width: 75%;  
+	width: 90%;  
 	-webkit-animation-name: animatetop;
 	-webkit-animation-duration: 0.4s;
 	animation-name: animatetop;
-	animation-duration: 0.4s
+	animation-duration: 0.4s;
   }
   .close-btn {
 	float: right; 
@@ -322,5 +322,6 @@ h1 + ul{
 
   .modal h1,
   .modal p{
-	  font-size: small;
+	  font-size: .7em;
+	  line-height: 1.2em;
   }
