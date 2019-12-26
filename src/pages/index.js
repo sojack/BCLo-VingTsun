@@ -112,6 +112,35 @@ function IndexPage() {
         <div className="modal-content">
           <span className="close-btn" onClick={event_modal_close}>&times;</span>
           <h1>Training Sets</h1>
+          <table className="trainingSets">
+            <tr className="blue_01">
+              <td>The Little Idea Training set</td>
+              <td>The first form of ving tsun siu lim tau starts to develop this idea and in turn creates a basic habit for punching correctly.</td>
+            </tr>
+            <tr className="blue_01">
+              <td>The Bridge Searching Training set</td>
+              <td>The next form in ving tsun is chum kiu chum kiu is roughly translated as seeking the bridge the bridge means the path to the opponent it can be better explained by how we can best fight the way to the opponent.</td>
+            </tr>
+            <tr className="blue_01">
+              <td>The Thrusting Finger Training set</td>
+              <td>The third form of ving tsun is bil jee and it goes against a lot of the principles of the ones laid out before it can be described as how one can make the best of a bad situation.</td>
+            </tr>
+            <tr className="blue_02">
+              <td>Power Endurance Training</td>
+              <td>
+                Wall punching bag and ceiling hanged punching bag are the basic power training that allow students to practice the concepts of center line and other physic related theories such as action and reaction. <br />
+                Wooden dummy is the essence of the three sets of ving tsun training sets and is also the key to training your ability in ving tsun techniques. <br />
+                The weapons of ving tsun the ving tsun choppers eight chopping knives and the six and half point long pole shaolin
+              </td>
+            </tr>
+            <tr className="blue_03">
+              <td>Application – Sticky Hand Training</td>
+              <td>
+                Single sticky hand basic form of hand coordination and it is the initial training of your perception feeling through hand contact.<br />
+                Double sticky hand through basic hands rotation together with your perception student begins the formation of the gate of defense and attack the balance of force from the hands engagement with your opponent.
+              </td>
+            </tr>
+          </table>
         </div>
       </div>
       

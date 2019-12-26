@@ -321,7 +321,24 @@ h1 + ul{
   }
 
   .modal h1,
-  .modal p{
+  .modal p,
+  table.trainingSets {
 	  font-size: .7em;
 	  line-height: 1.2em;
   }
+
+  table.trainingSets td {
+	  border-bottom: 0px;
+	  border-spacing: 0px;
+	  padding-top: .5em;
+	  padding-bottom: .5em;
+  }
+
+.blue_01{
+	  background-color: rgba(71, 142, 176, .6);
+  }
+.blue_02{
+	background-color: rgba(71, 142, 176, .4);
+}.blue_03{
+	background-color: rgba(71, 142, 176, .2);
+}
