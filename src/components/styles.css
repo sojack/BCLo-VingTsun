@@ -58,6 +58,14 @@ color: #E6E6E6;
 	text-align: center;
 	font-size: 1.3em;
 }
+.photoLabel{
+	color:white;
+	background-color:rgba(0, 0, 0, .8);
+	font-size: 1.2em;
+	text-shadow: 0px 0px 8px rgba(0, 0, 0, 1);
+	margin-top:1em;
+
+}
 h1 + p,
 h1 + ul{
 	margin-top: 1em;

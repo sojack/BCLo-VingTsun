@@ -50,22 +50,19 @@ function IndexPage() {
       <div className="item item_002 link"><a href="/" onClick={event_about_open}>About Us</a></div>
       <div className="item item_003"></div>
       <div className="item item_004 link"><a href="/" onClick={event_contact_open}>Contact Us</a></div>
-      <div className="item item_005">    </div>
+      <div className="item item_005"> <h1 class='photoLabel'><em>Sifu</em> Benny Lo</h1>   </div>
       <div className="item item_006 link"><a href="/" onClick={event_gallery_open}>Gallery</a></div>
       <div className="item item_007"></div>
       <div className="item item_008 main_txt">
-        <h1><em>Sifu</em> Benny Lo</h1>
-        <p>A big fan of Chinese martial arts who learned Ving Tsun under Master Stewart H. Fung, a former student of Grand Master Yip Man in Hong Kong.  Benny started to learn Ving Tsun in 1990, graduated from Master Fung in 1994 and he is still an active member of Master Fung’s Ving Tsun Research Class.  He also teaches Ving Tsun on a part-time basis.</p>
-        <h1>羅樹強師父簡介:</h1>
-        <p>師承詠春派馮漢師父門下, 師公乃佛山派宗師葉問。自一九九Ｏ年開始學習詠春至今, 並經常參與馮漢師父的詠春班及研究班, 亦以業餘性質開班授徒。</p>
-      </div>
-      <div className="item item_009 link"><a href="/" onClick={event_training_open}>Training Sets</a></div>
-      <div className="item item_010 main_txt">
-        <h1>Current Event</h1>
+        <h1>Class Schedule:</h1>
+        <p>Every Monday night from 7 – 10PM (2 sessions available 7 – 9pm / 8 – 10p.m.)</p>
         <p>Jan. 20, 27</p>
         <p>Feb. 3, 10, 24</p>
         <p>Mar. 2, 9, 23, 30 </p>
-        <p>The first form of ving tsun "Siu Lim Tau" covers the basic hand techniques and principles focusing on the development of self concentration and internal energy.</p>
+
+      </div>
+      <div className="item item_009 link"><a href="/" onClick={event_training_open}>Training Sets</a></div>
+      <div className="item item_010 main_txt">
       </div>
       <div className="item item_011 link"><a href="/" onClick={event_history_open}>History</a></div>
       <div className="item item_014 main_txt">
@@ -105,10 +102,10 @@ function IndexPage() {
             Email: <a href="mailto:cecilo@rogers.com">cecilo@rogers.com</a>
           </p>
           <p><strong>Location:</strong><br />
-            All Saints’ Church – 1100 Denison St., Markham, Ont.  L3R 0Z4
+          All Saints’ Church – 1100 Denison St., Markham, Ont.  L3R 0Z4  (NE of Denison/Warden)
           </p>
           <p><strong>Class Schedule:</strong><br />
-            Every Monday night from 7 – 9pm / 8 – 10p.m.
+          Every Monday night from 7 – 10PM (2 sessions available 7 – 9pm / 8 – 10p.m.)
           </p>
         </div>
       </div>
