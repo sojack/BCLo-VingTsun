@@ -122,7 +122,9 @@ function IndexPage() {
       <div ref={history_modal} className="modal">
         <div className="modal-content">
           <span className="close-btn" onClick={event_modal_close}>&times;</span>
-          <h1>History</h1>
+          <h1>Origin of Ving Tsun: </h1>
+          <p>Ving-Tsun originated from Shaolin Temple – the Chinese Buddhist temple which is the source of many modern day martial arts. Ving-Tsun does not have a long history as Tai Chi, or Karate. It was found by a female named Yim, Ving-Tsun about 400 years ago.  Since its creation, it has become one of the most famous martial arts in the southern part of China.  Ving-Tsun was then brought by Master Yip, Man from the province of Canton (China) to Hong Kong in 1949. The art of “Ving-Tsun” blossomed and quickly spread throughout the world by his students. The late movie star, Bruce Lee was among them.</p>
+          <p>詠春拳源於少林寺 – 該寺亦是很多現今武術的發源地！詠春拳沒有像其他武術如太極、空手道一般具有很長遠的歷史，它是由一位名嚴詠春的女士在約四百年前所始創。詠春拳自誕生以來便成為了中國南方其中一種最負盛名 的拳術，然後在1949年由一代宗師葉問師父將拳術從中國佛山帶到香港。 自此之後，詠春拳術在香港的發展一日千里，葉問宗師更是桃李滿門！他的眾多學生 -包括已故武打明星李小龍 – 並將詠春拳傳遍世界各地！</p>
         </div>
       </div>
 

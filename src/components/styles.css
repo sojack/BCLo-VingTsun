@@ -320,7 +320,7 @@ h1 + ul{
 	to {top:0; opacity:1}
   }
 
-  .modal h1,
+  .modal h1, h2,
   .modal p,
   table.trainingSets {
 	  font-size: .7em;
