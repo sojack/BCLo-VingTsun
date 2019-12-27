@@ -55,7 +55,7 @@ function IndexPage() {
       <div className="item item_007"></div>
       <div className="item item_008 main_txt">
         <h1>Class Schedule:</h1>
-        <p>Every Monday night from 7 – 10PM (2 sessions available 7 – 9pm / 8 – 10p.m.)</p>
+        <p>Every Monday night from 7 – 10 pm (2 sessions available 7 – 9 pm / 8 – 10 pm)</p>
         <p>Jan. 20, 27</p>
         <p>Feb. 3, 10, 24</p>
         <p>Mar. 2, 9, 23, 30 </p>

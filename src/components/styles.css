@@ -112,9 +112,9 @@ h1 + ul{
 
 .item_003 {
 	background-color: var(--beige);
-	background-image: url("../images/BL-9.jpg");
+	background-image: url("../images/home-photo-01.jpg");
 	background-size: cover;
-	background-position-y: center;
+	background-position-y: top;
 }
 
 .item_004 {
