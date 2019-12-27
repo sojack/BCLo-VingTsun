@@ -70,7 +70,7 @@ function IndexPage() {
       <div className="item item_014 main_txt">
         <h1>FROM FORM TO NO FORM</h1>
         <ul>
-          <li>ing Tsun’s emphasis on close contact combat technique lends itself to the training of reflexes.  Many of the unique features of Ving Tsun are to be found from its famous “Sticky Hand” practice, the three training sets and the wooden dummy.</li>
+          <li>Ving Tsun’s emphasis on close contact combat technique lends itself to the training of reflexes.  Many of the unique features of Ving Tsun are to be found from its famous “Sticky Hand” practice, the three training sets and the wooden dummy.</li>
           <li>The development of reflexes must be starting with the form-based training, such as the training sets and the wooden dummy techniques.  All of these over time will become a natural reflex that can be used in the “Sticky Hand” practice.</li>
           <li>The “Sticky Hand” practice models the real fight scenarios, but with rules.  So students will be able to apply their form-learning techniques within this model and eventually those forms will become “no form” over time as their reflexes develop.</li>
         </ul>
