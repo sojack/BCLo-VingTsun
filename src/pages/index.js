@@ -61,10 +61,11 @@ function IndexPage() {
       </div>
       <div className="item item_009 link"><a href="/" onClick={event_training_open}>Training Sets</a></div>
       <div className="item item_010 main_txt">
-        <h1>News & Updates</h1>
-        <ul>
-          <li>Opening day to be announced soon!</li>
-        </ul>
+        <h1>Current Event</h1>
+        <p>Jan. 20, 27</p>
+        <p>Feb. 3, 10, 24</p>
+        <p>Mar. 2, 9, 23, 30 </p>
+        <p>The first form of ving tsun "Siu Lim Tau" covers the basic hand techniques and principles focusing on the development of self concentration and internal energy.</p>
       </div>
       <div className="item item_011 link"><a href="/" onClick={event_history_open}>History</a></div>
       <div className="item item_014 main_txt">
@@ -135,22 +136,22 @@ function IndexPage() {
           <table className="trainingSets">
             <tr className="blue_01">
               <td>The Little Idea Training set</td>
-              <td>The first form of ving tsun siu lim tau starts to develop this idea and in turn creates a basic habit for punching correctly.</td>
+              <td>The first form of Ving Tsun Siu Lim Tau covers the basic hand techniques and principles focusing on the development of self concentration and internal energy.</td>
             </tr>
             <tr className="blue_01">
               <td>The Bridge Searching Training set</td>
-              <td>The next form in ving tsun is chum kiu chum kiu is roughly translated as seeking the bridge the bridge means the path to the opponent it can be better explained by how we can best fight the way to the opponent.</td>
+              <td>The next form in Ving Tsun is Chum Kiu Chum Kiu is roughly translated as seeking the bridge the bridge means the path to the opponent it can be better explained by how we can best fight the way to the opponent.</td>
             </tr>
             <tr className="blue_01">
               <td>The Thrusting Finger Training set</td>
-              <td>The third form of ving tsun is bil jee and it goes against a lot of the principles of the ones laid out before it can be described as how one can make the best of a bad situation.</td>
+              <td>The third form of Ving Tsun is Bil Jee and it goes against a lot of the principles of the ones laid out before it can be described as how one can make the best of a bad situation.</td>
             </tr>
             <tr className="blue_02">
               <td>Power Endurance Training</td>
               <td>
                 Wall punching bag and ceiling hanged punching bag are the basic power training that allow students to practice the concepts of center line and other physic related theories such as action and reaction. <br />
-                Wooden dummy is the essence of the three sets of ving tsun training sets and is also the key to training your ability in ving tsun techniques. <br />
-                The weapons of ving tsun the ving tsun choppers eight chopping knives and the six and half point long pole shaolin
+                Wooden dummy is the essence of the three sets of Ving Tsun training sets and is also the key to training your ability in Ving Tsun techniques. <br />
+                The weapons of Ving Tsun the Ving Tsun choppers eight chopping knives and the six and half point long pole shaolin
               </td>
             </tr>
             <tr className="blue_03">
