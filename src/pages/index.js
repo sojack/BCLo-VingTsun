@@ -1,4 +1,4 @@
-import React, {useRef, useEffect} from "react"
+import React, {useRef} from "react"
 import {Link} from "gatsby"
 import SEO from "../components/seo"
 import "../components/styles.css"
@@ -11,7 +11,6 @@ function IndexPage() {
   const about_modal = useRef()
   const contact_modal = useRef()
   const gallery_modal = useRef()
-  const training_modal = useRef()
   const history_modal = useRef()
 
 
@@ -23,14 +22,6 @@ function IndexPage() {
     e.preventDefault();
     contact_modal.current.style.display = "block"
   }
-  const event_gallery_open = (e)=>{ 
-    e.preventDefault();
-    gallery_modal.current.style.display = "block"
-  }
-  const event_training_open = (e)=>{ 
-    e.preventDefault();
-    training_modal.current.style.display = "block"
-  }
   const event_history_open = (e)=>{ 
     e.preventDefault();
     history_modal.current.style.display = "block"
@@ -40,8 +31,6 @@ function IndexPage() {
     e.preventDefault();
     about_modal.current.style.display = "none";
     contact_modal.current.style.display = "none";
-    gallery_modal.current.style.display = "none";
-    training_modal.current.style.display = "none";
     history_modal.current.style.display = "none";
   }
 
@@ -62,7 +51,7 @@ function IndexPage() {
         <p>Feb. 3, 10, 24</p>
         <p>Mar. 2, 9, 23, 30 </p>
       </div>
-      <div className="item item_009 link"><a href="/" onClick={event_training_open}>Training Sets</a></div>
+      <div className="item item_009 link"><Link to="/trainingSets">Training Sets</Link></div>
       <div className="item item_010 main_txt"></div>
       <div className="item item_011 link"><a href="/" onClick={event_history_open}>History</a></div>
       <div className="item item_014 main_txt">
@@ -123,42 +112,6 @@ function IndexPage() {
           <h1>Origin of Ving Tsun: </h1>
           <p className="txt_left">Ving-Tsun originated from Shaolin Temple – the Chinese Buddhist temple which is the source of many modern day martial arts. Ving-Tsun does not have a long history as Tai Chi, or Karate. It was found by a female named Yim, Ving-Tsun about 400 years ago.  Since its creation, it has become one of the most famous martial arts in the southern part of China.  Ving-Tsun was then brought by Master Yip, Man from the province of Canton (China) to Hong Kong in 1949. The art of “Ving-Tsun” blossomed and quickly spread throughout the world by his students. The late movie star, Bruce Lee was among them.</p>
           <p className="txt_left">詠春拳源於少林寺 – 該寺亦是很多現今武術的發源地！詠春拳沒有像其他武術如太極、空手道一般具有很長遠的歷史，它是由一位名嚴詠春的女士在約四百年前所始創。詠春拳自誕生以來便成為了中國南方其中一種最負盛名 的拳術，然後在1949年由一代宗師葉問師父將拳術從中國佛山帶到香港。 自此之後，詠春拳術在香港的發展一日千里，葉問宗師更是桃李滿門！他的眾多學生 -包括已故武打明星李小龍 – 並將詠春拳傳遍世界各地！</p>
-        </div>
-      </div>
-
-      <div ref={training_modal} className="modal">
-        <div className="modal-content">
-          <span className="close-btn" onClick={event_modal_close}>&times;</span>
-          <h1>Training Sets</h1>
-          <table className="trainingSets">
-            <tr className="blue_01">
-              <td>The Little Idea Training set</td>
-              <td>The first form of Ving Tsun “Siu Lim Tau” covers the basic hand techniques and principles, focusing on the development of self concentration and internal energy.</td>
-            </tr>
-            <tr className="blue_01">
-              <td>The Bridge Searching Training set</td>
-              <td>The next form in Ving Tsun is “Chum Kiu”. Chum kiu is roughly translated as “seeking the bridge”. The bridge means the path to the opponent. It can be better explained by how we can best “fight” the way to the opponent.</td>
-            </tr>
-            <tr className="blue_01">
-              <td>The Thrusting Finger Training set</td>
-              <td>The third form of Ving Tsun is Bil Jee and it goes against a lot of the principles of the ones laid out before. It can be described as how one can make the best of a bad situation.</td>
-            </tr>
-            <tr className="blue_02">
-              <td>Power Endurance Training</td>
-              <td>
-                Wall punching bag and ceiling hanged punching bag are the basic power training that allow students to practice the concepts of center line and other physic related theories such as action and reaction. <br />
-                Wooden dummy is the essence of the three sets of Ving Tsun training sets, and is also the key to training your ability in Ving Tsun techniques.<br />
-                The weapons of Ving Tsun: the Ving Tsun choppers (eight chopping knives) and the six and half point long pole (Shaolin)
-              </td>
-            </tr>
-            <tr className="blue_03">
-              <td>Application – Sticky Hand Training</td>
-              <td>
-                Single sticky hand – basic form of hand coordination and it is the initial training of your perception (feeling) through hand contact.<br />
-                Double sticky hand – through basic hands rotation, together with your perception student begins the formation of the gate of defense and attack, and to feel the balance of force from the hands engagement with your opponent.
-              </td>
-            </tr>
-          </table>
         </div>
       </div>
       

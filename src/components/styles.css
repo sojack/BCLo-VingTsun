@@ -58,13 +58,18 @@ color: #E6E6E6;
 	text-align: center;
 	font-size: 1.3em;
 }
+
+.main_txt li{
+	list-style-type: none;
+	margin-bottom: .8em;
+}
+
 .photoLabel{
 	color:white;
 	background-color:rgba(0, 0, 0, .8);
 	font-size: 1.2em;
 	text-shadow: 0px 0px 8px rgba(0, 0, 0, 1);
 	margin-top:1em;
-
 }
 h1 + p,
 h1 + ul{
@@ -84,7 +89,7 @@ h1 + ul{
 /* mobile first  */
 
 .container {
-    margin-top: 10px;
+    margin-top: 10px auto;
     background-color: white;
     width: 100%;
     padding: 0 10px;
@@ -96,6 +101,7 @@ h1 + ul{
 	grid-template-rows: repeat(7, 210px); */
     grid-gap: 3px 3px;
 	text-align: center;
+	max-width: 1000px;
 }
 
 .link{
@@ -116,7 +122,7 @@ h1 + ul{
 
 .item_003 {
 	background-color: var(--beige);
-	background-image: url("../images/home-photo-01.jpg");
+	background-image: url("../images/photo-006.jpg");
 	background-size: cover;
 	background-position-y: top;
 	background-position-x: center;
@@ -205,7 +211,7 @@ h1 + ul{
 
     .container {
         /* width: 1100px; */
-        margin: 3px 3px;
+        margin: 3px auto;
         padding: 0;
         box-sizing: border-box;
 		/* grid-template-columns: 260px 120px 260px 400px; */
@@ -226,7 +232,7 @@ h1 + ul{
     }
 
     .item_003 {
-        grid-column: 4 / span 2;
+        grid-column: 4 / span 1;
         grid-row: 1 / span 1;
     }
 
@@ -316,6 +322,7 @@ h1 + ul{
 	-webkit-animation-duration: 0.4s;
 	animation-name: animatetop;
 	animation-duration: 0.4s;
+	max-width: 1000px;
   }
   .close-btn {
 	float: right; 
@@ -345,8 +352,7 @@ h1 + ul{
   table.trainingSets td {
 	  border-bottom: 0px;
 	  border-spacing: 0px;
-	  padding-top: .5em;
-	  padding-bottom: .5em;
+	  padding: 1.5em;
   }
 
 .blue_01{
@@ -357,20 +363,40 @@ h1 + ul{
 }.blue_03{
 	background-color: rgba(71, 142, 176, .2);
 }
-.galleryImageContainer{
-}
 .galleryImage{
 	margin:2em;
 }
 .galleryContainer{
 	position:relative;
+	max-width: 1000px;
+	margin: 10px auto;
 }
 .galleryHomeLink{
 	position:fixed;
+	margin-left:-40px;
 	top:10px;
-	right:10px;
+	left:50%;
 	width:80px;
 	height:80px;
-	float:right;
 	z-index: 10;
 }
+.galleryHomeLink img{
+	width:80px;
+}
+
+.trainingSetsContainer {
+	position: relative; 
+	background-color: white;
+	max-width: 1000px;
+	padding: 100px 0 0; 
+	margin: auto; 
+	width: 90%;  
+	-webkit-animation-name: animatetop;
+	-webkit-animation-duration: 0.4s;
+	animation-name: animatetop;
+	animation-duration: 0.4s;
+	max-width: 1000px;
+  }
+  .trainingSetsContainer h1{
+	  font-size: small;
+  }
