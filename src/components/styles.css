@@ -77,6 +77,10 @@ h1 + ul{
 	text-align: right;
 }
 
+.txt_left{
+	text-align: left;
+}
+
 /* mobile first  */
 
 .container {
@@ -115,6 +119,7 @@ h1 + ul{
 	background-image: url("../images/home-photo-01.jpg");
 	background-size: cover;
 	background-position-y: top;
+	background-position-x: center;
 }
 
 .item_004 {
@@ -125,12 +130,14 @@ h1 + ul{
 	background-image: url("../images/BL-bw.jpg");
 	background-size: cover;
 	background-position-y: top;
+	background-position-x: center;
 }
 
 .item_007{
 	background-image: url("../images/BL--6.jpg");
 	background-size: cover;
-	background-position-y: center;
+	background-position-y: top;
+	background-position-x: center;
 }
 
 /* .item_005,
@@ -349,4 +356,21 @@ h1 + ul{
 	background-color: rgba(71, 142, 176, .4);
 }.blue_03{
 	background-color: rgba(71, 142, 176, .2);
+}
+.galleryImageContainer{
+}
+.galleryImage{
+	margin:2em;
+}
+.galleryContainer{
+	position:relative;
+}
+.galleryHomeLink{
+	position:fixed;
+	top:10px;
+	right:10px;
+	width:80px;
+	height:80px;
+	float:right;
+	z-index: 10;
 }

@@ -1,16 +1,25 @@
-import React from "react"
-import { Link } from "gatsby"
+import React, {useRef} from "react"
+import Modal from "../components/modal"
 
-import Layout from "../components/layout"
-import SEO from "../components/seo"
+// import SEO from "../components/seo"
 
-const SecondPage = () => (
-  <Layout>
-    <SEO title="Page two" />
-    <h1>Hi from the second page</h1>
-    <p>Welcome to page 2</p>
-    <Link to="/">Go back to the homepage</Link>
-  </Layout>
-)
+const SecondPage = () => {
+  const about_modal = useRef()
+
+  const event_about_open = (e)=>{ 
+    e.preventDefault();
+    about_modal.current.style.display = "block"
+  }
+
+  return(
+    <>
+      <button onClick={event_about_open}>show</button>
+      <Modal ref={about_modal}>
+        <p>Test page</p>
+      </Modal>
+    </>
+  )
+}
+
 
 export default SecondPage
