@@ -30,16 +30,16 @@ const Gallery = () => {
 		  <tr className="blue_02">
 			<td>Power Endurance Training</td>
 			<td>
-			  Wall punching bag and ceiling hanged punching bag are the basic power training that allow students to practice the concepts of center line and other physic related theories such as action and reaction. <br />
-			  Wooden dummy is the essence of the three sets of Ving Tsun training sets, and is also the key to training your ability in Ving Tsun techniques.<br />
-			  The weapons of Ving Tsun: the Ving Tsun choppers (eight chopping knives) and the six and half point long pole (Shaolin)
+			  <p>Wall punching bag and ceiling hanged punching bag are the basic power training that allow students to practice the concepts of center line and other physic related theories such as action and reaction.</p>
+			  <p>Wooden dummy is the essence of the three sets of Ving Tsun training sets, and is also the key to training your ability in Ving Tsun techniques.</p>
+			  <p>The weapons of Ving Tsun: the Ving Tsun choppers (eight chopping knives) and the six and half point long pole (Shaolin)</p>
 			</td>
 		  </tr>
 		  <tr className="blue_03">
 			<td>Application – Sticky Hand Training</td>
 			<td>
-			  Single sticky hand – basic form of hand coordination and it is the initial training of your perception (feeling) through hand contact.<br />
-			  Double sticky hand – through basic hands rotation, together with your perception student begins the formation of the gate of defense and attack, and to feel the balance of force from the hands engagement with your opponent.
+			  <p>Single sticky hand – basic form of hand coordination and it is the initial training of your perception (feeling) through hand contact.</p>
+			  <p>Double sticky hand – through basic hands rotation, together with your perception student begins the formation of the gate of defense and attack, and to feel the balance of force from the hands engagement with your opponent.</p>
 			</td>
 		  </tr>
 		</table>
