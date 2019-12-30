@@ -30,7 +30,7 @@ const Gallery = () => {
 		  <tr className="blue_02">
 			<td>Power Endurance Training</td>
 			<td>
-			  <p>Wall punching bag and ceiling hanged punching bag are the basic power training that allow students to practice the concepts of center line and other physic related theories such as action and reaction.</p>
+			  <p>Wall punching bag and ceiling hanged punching bag are the basic power training that allow students to practice the concepts of center line and other physics related theories such as action and reaction.</p>
 			  <p>Wooden dummy is the essence of the three sets of Ving Tsun training sets, and is also the key to training your ability in Ving Tsun techniques.</p>
 			  <p>The weapons of Ving Tsun: the Ving Tsun choppers (eight chopping knives) and the six and half point long pole (Shaolin)</p>
 			</td>

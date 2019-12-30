@@ -86,8 +86,6 @@ function IndexPage() {
           <span className="close-btn" onClick={event_modal_close}>&times;</span>
           <h1>Contact Us</h1>
           <p>
-            Benny Lo – <a href="tel:416-858-1758">(416) 858-1758</a><br />
-            or  <br />
             Cecilia Lo – <a href="tel:416-523-1978">(416) 523-1978</a><br/>
             Email: <a href="mailto:cecilo@rogers.com">cecilo@rogers.com</a>
           </p>
