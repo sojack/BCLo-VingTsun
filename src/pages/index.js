@@ -58,9 +58,9 @@ function IndexPage() {
       <div className="item item_014 main_txt">
         <h1>FROM FORM TO NO FORM</h1>
         <ul>
-          <li>Ving Tsun’s emphasis on close contact combat technique lends itself to the training of reflexes.  Many of the unique features of Ving Tsun are to be found from its famous “Sticky Hand” practice, the three training sets and the wooden dummy.</li>
-          <li>The development of reflexes must be starting with the form-based training, such as the training sets and the wooden dummy techniques.  All of these over time will become a natural reflex that can be used in the “Sticky Hand” practice.</li>
-          <li>The “Sticky Hand” practice models the real fight scenarios, but with rules.  So students will be able to apply their form-learning techniques within this model and eventually those forms will become “no form” over time as their reflexes develop.</li>
+          <li>Ving Tsun’s emphasis on close contact combat technique lends itself to the training of   reflexes.  Many of the unique features of Ving Tsun are to be found from its famous “Sticky Hand” practice, the three training sets and the wooden dummy. </li>
+          <li>The development of reflexes must start with the form-based training, such as the training sets and the wooden dummy techniques.  All of these over time will become a natural reflex that can be used in the “Sticky Hand” practice.</li>
+          <li>The “Sticky Hand” practice models the real fight scenarios, but with rules.  So students will be able to apply their form-learning techniques within this model, and eventually those forms will become “no form” over time as their reflexes develop.</li>
         </ul>
         <h1>從形至無形</h1>
         <ul>
@@ -75,7 +75,7 @@ function IndexPage() {
         <div className="modal-content">
           <span className="close-btn" onClick={event_modal_close}>&times;</span>
           <h1 className="txt_left">A brief introduction of <em>Sifu</em> Benny Lo:</h1>
-          <p className="txt_left">A big fan of Chinese martial arts who learned Ving Tsun under Master Stewart H. Fung, a former student of Grand Master Yip Man in Hong Kong.  Benny started to learn Ving Tsun in 1990, graduated from Master Fung in 1994.  His entire family are also students of Master Fung for many years, and his wife was the founder of the Ving Tsun Club at R.H. King Academy, TDSB where she teaches for over 10 years.  Benny and his wife are still active members of Master Fung’s Ving Tsun Research Class and  he also teaches Ving Tsun on a part-time basis.</p>
+          <p className="txt_left">A big fan of Chinese martial arts who studied Ving Tsun under Master Stewart H. Fung, a former student of Grand Master Yip Man in Hong Kong.  Benny started to learn Ving Tsun in 1990 and graduated from Master Fung in 1994.  His entire family are also students of Master Fung for many years, and his wife was the founder of the Ving Tsun Club at R.H. King Academy, TDSB where she has taught for over 10 years.  Benny and his wife are still active members of Master Fung’s Ving Tsun Research Class and  he has been teaching Ving Tsun on a part-time basis for many years.</p>
           <h1 className="txt_left">羅樹強師父簡介:</h1>
           <p className="txt_left">師承詠春派馮漢師父門下, 師公乃佛山派宗師葉問。自一九九Ｏ年開始學習詠春至今, 其家人均亦先後跟隨馮漢師父門下學習詠春拳多年，他太太更在其執教的中學內(R.H.King Academy-TDSB)創立了課餘詠春班超逾十年多，他們亦經常參與馮漢師父的詠春班及研究班, 多年來並以業餘性質開班授徒。</p>
         </div>
@@ -109,7 +109,7 @@ function IndexPage() {
         <div className="modal-content">
           <span className="close-btn" onClick={event_modal_close}>&times;</span>
           <h1>Origin of Ving Tsun: </h1>
-          <p className="txt_left">Ving-Tsun originated from Shaolin Temple – the Chinese Buddhist temple which is the source of many modern day martial arts. Ving-Tsun does not have a long history as Tai Chi, or Karate. It was found by a female named Yim, Ving-Tsun about 400 years ago.  Since its creation, it has become one of the most famous martial arts in the southern part of China.  Ving-Tsun was then brought by Master Yip, Man from the province of Canton (China) to Hong Kong in 1949. The art of “Ving-Tsun” blossomed and quickly spread throughout the world by his students. The late movie star, Bruce Lee was among them.</p>
+          <p className="txt_left">Ving-Tsun originated from Shaolin Temple – the Chinese Buddhist temple which is the source of many modern day martial arts. Ving-Tsun does not have as long a history as Tai Chi or Karate. It was found by a female named Yim, Ving-Tsun about 400 years ago.  Since its creation, it has become one of the most famous martial arts in the southern part of China.  Ving-Tsun was then brought by Master Yip, Man from the province of Canton (China) to Hong Kong in 1949. The art of “Ving-Tsun” blossomed and quickly spread throughout the world by his students. The late movie star, Bruce Lee was among them.</p>
           <p className="txt_left">詠春拳源於少林寺 – 該寺亦是很多現今武術的發源地！詠春拳沒有像其他武術如太極、空手道一般具有很長遠的歷史，它是由一位名嚴詠春的女士在約四百年前所始創。詠春拳自誕生以來便成為了中國南方其中一種最負盛名 的拳術，然後在1949年由一代宗師葉問師父將拳術從中國佛山帶到香港。 自此之後，詠春拳術在香港的發展一日千里，葉問宗師更是桃李滿門！他的眾多學生 -包括已故武打明星李小龍 – 並將詠春拳傳遍世界各地！</p>
         </div>
       </div>
