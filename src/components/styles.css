@@ -180,11 +180,11 @@ h1 + ul{
 
 .item_010 {
     background-color: var(--orange);
-	background-image: url("../images/bclo-icon-simple.png");
-    background-repeat: no-repeat;
+	background-image: url("../images/photo-003.jpg");
+	background-size: cover;
+	background-position-y: top;
 	background-position-x: center;
-	background-position-y: center;
-	background-size: contain;}
+}
 
 .item_011 {
 	background-color: var(--blue);
