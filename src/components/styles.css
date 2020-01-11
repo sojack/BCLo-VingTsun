@@ -75,7 +75,7 @@ color: #E6E6E6;
 }
 h1 + p,
 h1 + ul{
-	margin-top: 1em;
+	margin-top: .5em;
 }
 
 .copyright{
