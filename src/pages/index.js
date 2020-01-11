@@ -5,6 +5,7 @@ import "../components/styles.css"
 
 // import Modal from "../components/modal"
 import logo from "../images/bclo-logo.png"
+import waver from "../images/BCLO_Waiver.pdf"
 
 function IndexPage() {
   
@@ -68,7 +69,12 @@ function IndexPage() {
           <li>從有形的模式訓練-詠春的三套拳術（小念頭、尋橋和標指）再加上七節木人樁法，這全都是一種有形態的鍛鍊！然後再運用於黐手的訓練中, 時日一久就能夠產生自然反應的本能, 這就是形的誕生！</li>
           <li>詠春的黐手練習是一種模擬真實搏鬥但有規限方式的鍛鍊！學生將所學的拳套和木人樁法所謂有形態的技巧運用其中，長期的訓練下就會產生自然反應的感覺直至達到無形的境界！正所謂學之於有形、用之於無形，不加思索的應對能力才是練武的最高境界！</li>
         </ul>
+      </div>
+
+      <div className="item_footer">
+        <p><a href={waver}>WAVER</a>: Every student must read and understand this <a href={waver}>waiver</a> before participating in Ving Tsun activities.</p>
         <p className="copyright">Copyright 2019 &copy; BCLo-VingTsun</p>
+
       </div>
 
       <div ref={about_modal} className="modal">
