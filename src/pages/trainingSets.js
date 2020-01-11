@@ -17,29 +17,29 @@ const Gallery = () => {
 		<table className="trainingSets">
 		  <tr className="blue_01">
 			<td>The Little Idea Training set</td>
-			<td>THE FIRST FORM OF VING TSUN "SIU LIM TAU" COVERS THE BASIC HAND TECHNIQUES AND PRINCIPLES, FOCUSING ON THE DEVELOPMENT OF SELF CONCENTRATION AND INTERNAL ENERGY.</td>
+			<td>The first form of Ving Tsun “Siu Lim Tau” covers the basic hand techniques and principles, focusing on the development of self concentration and internal energy.</td>
 		  </tr>
 		  <tr className="blue_01">
 			<td>The Bridge Searching Training set</td>
-			<td>THE NEXT FORM IN VING TSUN IS "CHUM KIU". CHUM KIU IS ROUGHLY TRANSLATED AS "SEEKING THE BRIDGE". THE BRIDGE MEANS THE PATH TO THE OPPONENT. IT CAN BE BETTER EXPLAINED BY HOW WE CAN BEST "FIGHT" THE WAY TO THE OPPONENT.</td>
+			<td>The next form in Ving Tsun is “Chum Kiu". Chum Kiu is roughly translated as "seeking the bridge". The bridge means the path to the opponent. It can be better explained by how we can best "fight" the way to the opponent.</td>
 		  </tr>
 		  <tr className="blue_01">
 			<td>The Thrusting Finger Training set</td>
-			<td>THE THIRD FORM OF VING TSUN IS BIL JEE AND IT GOES AGAINST A LOT OF THE PRINCIPLES OF THE ONES LAID OUT BEFORE. IT CAN BE DESCRIBED AS HOW ONE CAN MAKE THE BEST OF A BAD SITUATION.</td>
+			<td>The third form of Ving Tsun is “Bil Jee” and it goes against a lot of the principles of the ones laid out before. It can be described as how one can make the best of a bad situation.</td>
 		  </tr>
 		  <tr className="blue_02">
 			<td>Power Endurance Training</td>
 			<td>
-			  <p>WALL PUNCHING BAG AND CEILING HANGED PUNCHING BAG ARE THE BASIC POWER TRAINING THAT ALLOW STUDENTS TO PRACTICE THE CONCEPTS OF CENTER LINE AND OTHER PHYSICS RELATED THEORIES SUCH AS ACTION AND REACTION.</p>
-			  <p>PRACTICE WITH THE WOODEN DUMMY IS THE ESSENCE OF THE THREE SETS OF VING TSUN TRAINING SETS, AND IS ALSO THE KEY TO TRAINING THE STUDENT’S ABILITY IN VING TSUN TECHNIQUES.</p>
-			  <p>THE WEAPONS OF VING TSUN ARE: THE VING TSUN CHOPPERS (EIGHT CHOPPING KNIVES) AND THE SIX AND HALF POINT LONG POLE (SHAOLIN)</p>
+			  <p>Wall punching bag and ceiling hanged punching bag are the basic power training that allow students to practice the concepts of center line and other physics related theories such as <em>Action and Reaction</em>.</p>
+			  <p>Practice with the <em>wooden dummy</em> is the essence of the three sets of Ving Tsun training sets, and is also the key to training the student’s ability in Ving Tsun techniques.</p>
+			  <p>The weapons of Ving Tsun are: the Ving Tsun Choppers (Eight Chopping Knives) and the Six and Half Point long pole (Shaolin)</p>
 			</td>
 		  </tr>
 		  <tr className="blue_03">
 			<td>Application – Sticky Hand Training</td>
 			<td>
-			  <p>SINGLE STICKY HAND – A BASIC FORM OF HAND COORDINATION AND IT IS THE INITIAL TRAINING OF THE STUDENT’S PERCEPTION (FEELING) THROUGH HAND CONTACT.</p>
-			  <p>DOUBLE STICKY HAND – THROUGH BASIC HANDS ROTATION AND TOGETHER WITH PERCEPTION, THE STUDENT BEGINS THE FORMATION OF THE GATE OF DEFENSE AND ATTACK, AND TO FEEL THE BALANCE OF FORCE FROM THE HANDS ENGAGEMENT WITH AN OPPONENT. </p>
+			  <p>Single Sticky Hand – a basic form of hand coordination and is the initial training of the student’s perception (feeling) through arm contact.</p>
+			  <p>Double Sticky Hand – through basic hand rotation and together with perception, the student begins the formation of the gate of defense and attack, and to feel the balance of force from the arms engagement with an opponent.</p>
 			</td>
 		  </tr>
 		</table>
