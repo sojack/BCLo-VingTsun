@@ -46,6 +46,9 @@ function IndexPage() {
       <div className="item item_006 link"><Link to="/gallery">Gallery</Link></div>
       <div className="item item_007"></div>
       <div className="item item_008 main_txt">
+        <h1 className="highlight">🎉 Grand Opening: 🎉</h1>
+        <p><strong className="highlight">Jan. 20, 2020, 8&nbsp;pm</strong>: Demonstration of Sticky hands, Six and half poles, and Ving Tsun Eight chopper Sword Techniques</p>
+
         <h1>2020 Class Schedule:</h1>
         <p>Every Monday night from 7 – 10 pm</p>
         <p>Jan. 20, 27</p>
@@ -72,7 +75,7 @@ function IndexPage() {
       </div>
 
       <div className="item_footer">
-        <p><a href={waver}>WAVER</a>: Every student must read and understand this <a href={waver}>waiver</a> before participating in Ving Tsun activities.</p>
+        <p><a href={waver}>WAIVER</a>: Every student must read and understand this <a href={waver}>waiver</a> before participating in Ving Tsun activities.</p>
         <p className="copyright">Copyright 2019 &copy; BCLo-VingTsun</p>
 
       </div>
