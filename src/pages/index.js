@@ -76,7 +76,7 @@ function IndexPage() {
 
       <div className="item_footer">
         <p><a href={waver}>WAIVER</a>: Every student must read and understand this <a href={waver}>waiver</a> before participating in Ving Tsun activities.</p>
-        <p className="copyright">Copyright 2019 &copy; BCLo-VingTsun</p>
+        <p className="copyright">&copy; {new Date().getFullYear()}, BCLo-VingTsun</p>
 
       </div>
 
