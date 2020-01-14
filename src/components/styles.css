@@ -39,6 +39,12 @@ a{
 	text-decoration: none;
 }
 
+.item_014 > *{
+	max-width: 40em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 .item a{
 	margin: 0 0.5em;
 	color: white;

@@ -61,17 +61,13 @@ function IndexPage() {
       <div className="item item_011 link"><a href="/" onClick={event_history_open}>History</a></div>
       <div className="item item_014 main_txt">
         <h1>FROM FORM TO NO FORM</h1>
-        <ul>
-          <li>Ving Tsun’s emphasis on close contact combat technique lends itself to the training of <strong>reflexes</strong>.  Many of the unique features of Ving Tsun can be found from its famous <em>“Sticky Hand”</em> practice, the three training sets, and the <em>wooden dummy</em>. </li>
-          <li>The development of reflexes must start with form-based training, such as the <em>training sets</em> and <em>wooden dummy</em> techniques.  This will all over time build a <strong>natural reflex</strong> that can be used in the <em>“Sticky Hand”</em> practice.</li>
-          <li>The <em>“Sticky Hand”</em> practice models real fight scenarios, but with rules.  Students will be able to apply their form-learning techniques within this model, and eventually those forms will become “no form” over time as their reflexes develop.</li>
-        </ul>
+          <p>Ving Tsun’s emphasis on close contact combat technique lends itself to the training of <strong>reflexes</strong>.  Many of the unique features of Ving Tsun can be found from its famous <em>“Sticky Hand”</em> practice, the three training sets, and the <em>wooden dummy</em>. </p>
+          <p>The development of reflexes must start with form-based training, such as the <em>training sets</em> and <em>wooden dummy</em> techniques.  This will all over time build a <strong>natural reflex</strong> that can be used in the <em>“Sticky Hand”</em> practice.</p>
+          <p>The <em>“Sticky Hand”</em> practice models real fight scenarios, but with rules.  Students will be able to apply their form-learning techniques within this model, and eventually those forms will become “no form” over time as their reflexes develop.</p>
         <h1>從形至無形</h1>
-        <ul>
-          <li>詠春拳是一種近距離的搏鬥拳術，其主要訓練目的就是能夠達到出於本能反應、不花思考的應對能力！</li>
-          <li>從有形的模式訓練-詠春的三套拳術（小念頭、尋橋和標指）再加上七節木人樁法，這全都是一種有形態的鍛鍊！然後再運用於黐手的訓練中, 時日一久就能夠產生自然反應的本能, 這就是形的誕生！</li>
-          <li>詠春的黐手練習是一種模擬真實搏鬥但有規限方式的鍛鍊！學生將所學的拳套和木人樁法所謂有形態的技巧運用其中，長期的訓練下就會產生自然反應的感覺直至達到無形的境界！正所謂學之於有形、用之於無形，不加思索的應對能力才是練武的最高境界！</li>
-        </ul>
+          <p>詠春拳是一種近距離的搏鬥拳術，其主要訓練目的就是能夠達到出於本能反應、不花思考的應對能力！</p>
+          <p>從有形的模式訓練-詠春的三套拳術（小念頭、尋橋和標指）再加上七節木人樁法，這全都是一種有形態的鍛鍊！然後再運用於黐手的訓練中, 時日一久就能夠產生自然反應的本能, 這就是形的誕生！</p>
+          <p>詠春的黐手練習是一種模擬真實搏鬥但有規限方式的鍛鍊！學生將所學的拳套和木人樁法所謂有形態的技巧運用其中，長期的訓練下就會產生自然反應的感覺直至達到無形的境界！正所謂學之於有形、用之於無形，不加思索的應對能力才是練武的最高境界！</p>
       </div>
 
       <div className="item_footer">
