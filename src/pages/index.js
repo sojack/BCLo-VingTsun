@@ -44,7 +44,7 @@ function IndexPage() {
       <div className="item item_004 link"><a href="/" onClick={event_contact_open}>Contact Us</a></div>
       <div className="item item_005"> <h1 class='photoLabel'><em>Sifu</em> Benny Lo</h1>   </div>
       <div className="item item_006 link"><Link to="/gallery">Gallery</Link></div>
-      <div className="item item_007"></div>
+      <div className="item item_007"><h1 class='photoLabel'><em>Sifu</em> Benny’s family and Master S. Fung</h1> </div>
       <div className="item item_008 main_txt">
         <h1 className="highlight">🎉 Open House 🎉</h1>
         <p><strong >Jan. 20, 2020, 7-10&nbsp;pm</strong> </p>
