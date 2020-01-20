@@ -25,7 +25,29 @@ const Gallery = () => {
 	  }	  
   `)
 
-  console.log(data)
+//   console.log(data)
+	const GalleryCaptions = [
+		'Graduation Day Demonstration',
+		'Graduation Day Demonstration',
+		'Graduation Day Demonstration',
+		'Graduation Day Demonstration',
+		'Sifu Benny’s Family and Master S. Fung in the middle',
+		'back: Sifu Benny and his students - front: Master S. Fung in the middle',
+		'Sifu Benny and his students',
+		'Cecilia Lo (2nd row right) and her Ving Tsun Club students @ R.H.King Academy',
+		'Practising the long pole with students and colleague',
+		'Students practising double sticky hands',
+		' ',
+		' ',
+		' ',
+		' ',
+		' ',
+		' ',
+		'Sifu Benny’s family with Master S. Fung and Sihen Paul ',
+		'Sifu Benny with his wife Cecilia and Master S. Fung',
+		'Family graduation certificates on the wall',
+	]
+
 	return(
 		<div className="galleryContainer">
 			<SEO title="Gallery" />
@@ -33,9 +55,10 @@ const Gallery = () => {
 			<div className="galleryHomeLink">
 				<Link to="/"><img src={logo} alt=""/></Link>
 			</div>
-			{data.images.nodes.map(image=>(
+			{data.images.nodes.map( (image, i)=>(
 				<div className="galleryImageContainer">
 					<Img className="galleryImage" key={image.id} fluid={image.childImageSharp.fluid} />
+			<p className="galleryCaption"> {GalleryCaptions[i]} </p>
 				</div>
 			))}
 			

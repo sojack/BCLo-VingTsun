@@ -115,6 +115,12 @@ h1 + ul{
 	font-weight: bolder;
 }
 
+.galleryCaption{
+	text-align: center;
+	font-size: small;
+	margin: 0 0 2em;
+}
+
 /* mobile first  */
 
 .container {
@@ -380,6 +386,7 @@ h1 + ul{
 }
 .galleryImage{
 	margin:2em;
+	margin-bottom:0;
 }
 .galleryContainer{
 	position:relative;
