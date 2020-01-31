@@ -46,15 +46,15 @@ function IndexPage() {
       <div className="item item_006 link"><Link to="/gallery">Gallery</Link></div>
       <div className="item item_007"><h1 class='photoLabel'><em>Sifu</em> Benny’s family and Master S. Fung</h1> </div>
       <div className="item item_008 main_txt">
-        <h1 className="highlight">🎉 Open House 🎉</h1>
+        {/* <h1 className="highlight">🎉 Open House 🎉</h1>
         <p><strong >Jan. 20, 2020, 7-10&nbsp;pm</strong> </p>
-        <p><strong >Jan. 27, 2020, 7-10&nbsp;pm</strong> </p>
+        <p><strong >Jan. 27, 2020, 7-10&nbsp;pm</strong> </p> */}
         <h1>2020 Class Schedule:</h1>
-        <p>Every Monday night from 7 – 10 pm</p>
-        <p>Jan. 20, 27</p>
-        <p>Feb. 3, 10, 24</p>
-        <p>Mar. 2, 9, 23, 30 </p>
-        <p>April–December: TBD</p>
+        <p><em>Every Monday night from 7 – 10 pm</em></p>
+        <p><strong>January:</strong> 20, 27</p>
+        <p><strong>February:</strong> 3, 10, 24</p>
+        <p><strong>March:</strong> 2, 9, 23, 30 </p>
+        <p><strong>April:</strong> 6, 20, 27</p>
       </div>
       <div className="item item_009 link"><Link to="/trainingSets">Training Sets</Link></div>
       <div className="item item_010 main_txt"></div>
