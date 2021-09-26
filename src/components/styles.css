@@ -307,6 +307,10 @@ h1 + ul {
   .container {
     grid-template-columns: 1fr 2fr max-content 3fr;
   }
+  .bclo-logo {
+    width: 50%;
+
+  }
 }
 
 .modal {
