@@ -66,16 +66,16 @@ function IndexPage() {
       </div>
       <div className="item item_008 main_txt">
         {/* _____SCHEDULE____ */}
-        <h1>2020 Class Schedule:</h1>
+        <h1>2021 Class Schedule:</h1>
         <p className="notice">
           <em>
-            All classes are cancelled due to Covid-19 until further notice!
+            Classes will resume in November - Details to be announced soon!
           </em>
         </p>
         <p className="crossed">
-          <em>Every Monday night from 7 – 10 pm</em>
+          <em>Every Tuesday night from 8 – 10 pm</em>
         </p>
-        <p className="crossed">
+        {/* <p className="crossed">
           <strong>March:</strong> 2, 9, 23, 30{" "}
         </p>
         <p className="crossed">
@@ -86,7 +86,7 @@ function IndexPage() {
         </p>
         <p className="crossed">
           <strong>Jun:</strong> 1, 8, 15, 22, 29
-        </p>
+        </p> */}
       </div>
       <div className="item item_009 link">
         <Link to="/trainingSets">Training Sets</Link>
@@ -192,8 +192,8 @@ function IndexPage() {
           <p>
             <strong>Class Schedule:</strong>
             <br />
-            Every Monday night from 7 – 10 pm (2 sessions available 7 – 9 pm / 8
-            – 10 pm)
+            Every Tuesday night from 8 – 10 pm 
+            {/* (2 sessions available 7 – 9 pm / 8 – 10 pm) */}
           </p>
         </div>
       </div>
