@@ -72,10 +72,10 @@ function IndexPage() {
             Classes will resume in November - Details to be announced soon!
           </em>
         </p>
-        <p className="crossed">
+        {/*<p className="crossed">
           <em>Every Tuesday night from 8 – 10 pm</em>
         </p>
-        {/* <p className="crossed">
+         <p className="crossed">
           <strong>March:</strong> 2, 9, 23, 30{" "}
         </p>
         <p className="crossed">
