@@ -67,26 +67,19 @@ function IndexPage() {
       <div className="item item_008 main_txt">
         {/* _____SCHEDULE____ */}
         <h1>2021 Class Schedule:</h1>
-        <p className="notice">
-          <em>
-            Classes will resume in November - Details to be announced soon!
-          </em>
+       
+        <p>
+          <em>Classes resume for every Tues. night from 8pm-10pm</em>
         </p>
-        {/*<p className="crossed">
-          <em>Every Tuesday night from 8 – 10 pm</em>
+         <p>
+          <strong>November:</strong> 2, 9, 16, 23, 30
         </p>
-         <p className="crossed">
-          <strong>March:</strong> 2, 9, 23, 30{" "}
+        <p>
+          <strong>December:</strong> 7, 14, 21
         </p>
-        <p className="crossed">
-          <strong>April:</strong> 6, 20, 27
+        <p>
+          <strong>January 2022:</strong> 4, 11, 18, 25
         </p>
-        <p className="crossed">
-          <strong>May:</strong> 4, 11, 25
-        </p>
-        <p className="crossed">
-          <strong>Jun:</strong> 1, 8, 15, 22, 29
-        </p> */}
       </div>
       <div className="item item_009 link">
         <Link to="/trainingSets">Training Sets</Link>
