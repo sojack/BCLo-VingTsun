@@ -435,3 +435,6 @@ table.trainingSets td {
 .crossed {
   text-decoration: line-through solid red;
 }
+.colorRed{
+  color:red;
+}

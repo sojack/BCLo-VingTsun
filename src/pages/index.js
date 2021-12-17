@@ -75,10 +75,19 @@ function IndexPage() {
           <strong>November:</strong> 2, 9, 16, 23, 30
         </p>
         <p>
-          <strong>December:</strong> 7, 14, 21
+          <strong>December:</strong> 7, 14, <span className="crossed">21</span><span className="colorRed"> canceled</span>
         </p>
         <p>
           <strong>January 2022:</strong> 4, 11, 18, 25
+        </p>
+        <p>
+          <strong>February 2022:</strong> 8, 15, 22
+        </p>
+        <p>
+          <strong>March 2022:</strong> 1, 8, 22, 29 
+        </p>
+        <p>
+          <strong>April 2022:</strong> 5, 12, 19, 26
         </p>
       </div>
       <div className="item item_009 link">
