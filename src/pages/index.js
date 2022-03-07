@@ -71,24 +71,12 @@ function IndexPage() {
         <p>
           <em>Classes resume for every Tues. night from 8pm-10pm</em>
         </p>
-         <p>
-          <strong>November:</strong> 2, 9, 16, 23, 30
-        </p>
-        <p>
-          <strong>December:</strong> 7, 14, <span className="crossed">21</span><span className="colorRed"> canceled</span>
-        </p>
-        <p>
-          <strong>January 2022:</strong> <span className="crossed">4, 11, 18, 25</span> <span className="colorRed"> canceled</span>
-        </p>
-        <p>
-          <strong>February 2022:</strong> 8, 15, 22
-        </p>
-        <p>
-          <strong>March 2022:</strong> 1, 8, 22, 29 
-        </p>
-        <p>
-          <strong>April 2022:</strong> 5, 12, 19, 26
-        </p>
+        <p><strong>March 2022:</strong> 1, 8, 22, 29</p>
+        <p><strong>April 2022:</strong> 5, 12, 19, 26</p>
+        <p><strong>May 2022:</strong> 3, 10, 17, 31</p>
+        <p><strong>June 2022:</strong> 7, 14, 28</p>
+        <p><strong>July 2022:</strong> 5, 12, 19, 26</p>
+       
       </div>
       <div className="item item_009 link">
         <Link to="/trainingSets">Training Sets</Link>
