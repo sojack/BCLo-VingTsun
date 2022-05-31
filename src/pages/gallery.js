@@ -46,6 +46,12 @@ const Gallery = () => {
 		'Sifu Benny’s family with Master S. Fung and Sihen Paul ',
 		'Sifu Benny with his wife Cecilia and Master S. Fung',
 		'Family graduation certificates on the wall',
+		'BCLO Ving Tsub Academy female students',
+		'test #1',
+		'test #1',
+		'test #1',
+		'test #1',
+		'After test night snack with the current class!'
 	]
 
 	return(
