@@ -69,7 +69,7 @@ function IndexPage() {
         <h1>Class Schedule:</h1>
        
         <p>
-          <em>Every Tues. night from 8pm-10pm</em>
+          <em>Every Tuesday from 8pm-10pm</em>
         </p>
          <p>
           <strong>June:</strong> 7, 14, 28 (no class on June 21)
