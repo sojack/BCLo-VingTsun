@@ -84,7 +84,7 @@ function IndexPage() {
           <strong>September:</strong> 13, 20, 27 (no class on Sept. 6)
         </p>
         <p>
-          <strong>October:</strong> 4, 18, 25 (no class on Oct. 11)
+          <strong>October:</strong> 4, <span className="crossed">18</span> <span className="colorRed"> (canceled)</span>, 25 (no class on Oct. 11)
         </p>
         <p>
           <strong>November:</strong> 1, 8, 15, 22, 29
