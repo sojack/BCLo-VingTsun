@@ -71,7 +71,7 @@ function IndexPage() {
         <p>
           <em>Every Tuesday from 8pm-10pm</em>
         </p>
-         <p>
+         {/* <p>
           <strong>June:</strong> 7, 14, 28 (no class on June 21)
         </p>
         <p>
@@ -82,18 +82,21 @@ function IndexPage() {
         </p>
         <p>
           <strong>September:</strong> 13, 20, 27 (no class on Sept. 6)
-        </p>
+        </p> */}
         <p>
           <strong>October:</strong> 4, <span className="crossed">18</span> <span className="colorRed"> (canceled)</span>, 25 (no class on Oct. 11)
         </p>
         <p>
-          <strong>November:</strong> 1, 8, 15, 22, 29
+          <strong>November:</strong> 1, 8, 15, 22, 29 (test #2 on Nov. 29)
         </p>
         <p>
           <strong>December:</strong> 6, 13 (no class on Dec. 20 and 27)
         </p>
         <p>
           <strong>January:</strong> 10, 17, 24, 31 (no class on Jan 3 and 23)
+        </p>
+        <p>
+          <strong>February:</strong> 7, 14, 28 (no class on Feb 21)
         </p>
       </div>
       <div className="item item_009 link">
