@@ -93,7 +93,7 @@ function IndexPage() {
           <strong>December:</strong> 6, 13 (no class on Dec. 20 and 27)
         </p> */}
         <p>
-          <strong>January:</strong> 10, 17, 24, 31 (no class on Jan 3 and 23)
+          <strong>January:</strong> 10, 17, 24, 31 (no class on Jan 3)
         </p>
         <p>
           <strong>February:</strong> 7, 14, 28 (no class on Feb 21)
