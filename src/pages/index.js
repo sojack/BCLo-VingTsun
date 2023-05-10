@@ -71,41 +71,17 @@ function IndexPage() {
         <p>
           <em>Every Tuesday from 8pm-10pm</em>
         </p>
-         {/* <p>
-          <strong>June:</strong> 7, 14, 28 (no class on June 21)
+        <p>
+          <strong>May:</strong> 2, 9, 16 (no class on May 23, 30)
         </p>
         <p>
-          <strong>July:</strong> 5, 12, 19, <span className="crossed">26</span>  <span className="colorRed"> cancelled</span>
+          <strong>June:</strong> 6, 13, 20, 27
         </p>
         <p>
-          <strong>August:</strong> 9, 16, 23, 30 (No class on Aug. 2)
+          <strong>July:</strong> 4, 11, 18, 25
         </p>
         <p>
-          <strong>September:</strong> 13, 20, 27 (no class on Sept. 6)
-        </p> */}
-        {/* <p>
-          <strong>October:</strong> 4, <span className="crossed">18</span> <span className="colorRed"> (canceled)</span>, 25 (no class on Oct. 11)
-        </p>
-        <p>
-          <strong>November:</strong> 1, 8, 15, 22, 29 (test #2 on Nov. 29)
-        </p>
-        <p>
-          <strong>December:</strong> 6, 13 (no class on Dec. 20 and 27)
-        </p> */}
-        <p>
-          <strong>January:</strong> 10, 17, 24, 31 (no class on Jan 3)
-        </p>
-        <p>
-          <strong>February:</strong> 7, 14, 28 (no class on Feb 21)
-        </p>
-        <p>
-        <strong>March:</strong> 7, 21, 28 (no class on Mar. 14)
-        </p>
-        <p>
-        <strong>April:</strong> 4, 11, 18, 25
-        </p>
-        <p>
-        <strong>May:</strong> 2, 9, 16 (no class on May 23, 30)
+          <strong>August:</strong> 1, 15, 22, 29 (no class on Aug. 8th)
         </p>
       </div>
       <div className="item item_009 link">
