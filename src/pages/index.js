@@ -72,9 +72,9 @@ function IndexPage() {
           <em>Every Tuesday from 8pm-10pm</em>
         </p>
         
-        <p><strong>Jan:</strong>  9, 16, 23, 30 (no class on Jan.2)</p>
-        <p><strong>Feb:</strong>  6, 13, 27 (no class on Feb.19)</p>
-        <p><strong>March:</strong> 5, 19, 26 (no class on March.12)</p>
+        <p><strong>Jan:</strong>  9, 16, 23, 30 (no class on Jan. 2)</p>
+        <p><strong>Feb:</strong>  6, 13, 27 (no class on Feb. 20)</p>
+        <p><strong>March:</strong> 5, 19, 26 (no class on March 12)</p>
         <p><strong>April:</strong> 9, 16, 23, 30 (no class on April 2)</p>
 
   
