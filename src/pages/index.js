@@ -66,16 +66,19 @@ function IndexPage() {
       </div>
       <div className="item item_008 main_txt">
         {/* _____SCHEDULE____ */}
-        <h1>Class Schedule:</h1>
+        <h1>2024 Class Schedule:</h1>
        
         <p>
           <em>Every Tuesday from 8pm-10pm</em>
         </p>
         
-        <p><strong>Jan:</strong>  9, 16, 23, 30 (no class on Jan. 2)</p>
-        <p><strong>Feb:</strong>  6, 13, 27 (no class on Feb. 20)</p>
         <p><strong>March:</strong> 5, 19, 26 (no class on March 12)</p>
         <p><strong>April:</strong> 9, 16, 23, 30 (no class on April 2)</p>
+<p><strong>April:</strong> 9, 16, 23, 30 ( no class on April 2nd)</p>
+<p><strong>May:</strong> 7, 14, 28 (no class on May 21st)</p>
+<p><strong>June:</strong> 4, 11, 18, 25</p>
+<p><strong>Tentative schedule for new class and/or weapon class:</strong>  July 9, 16, 23, 30 (no class on July 2nd)</p>
+<p><strong>Aug:</strong> 13, 20, 27 ( no class on Aug. 6)</p>
 
   
       </div>
