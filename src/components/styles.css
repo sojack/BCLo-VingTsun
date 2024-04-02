@@ -196,6 +196,7 @@ h1 + ul {
 
 .item_008 {
   background-color: var(--lightGray);
+  overflow: scroll;
 }
 
 .item_009 {
