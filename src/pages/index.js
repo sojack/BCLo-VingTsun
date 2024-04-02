@@ -73,7 +73,6 @@ function IndexPage() {
         </p>
         
         <p><strong>March:</strong> 5, 19, 26 (no class on March 12)</p>
-        <p><strong>April:</strong> 9, 16, 23, 30 (no class on April 2)</p>
 <p><strong>April:</strong> 9, 16, 23, 30 ( no class on April 2nd)</p>
 <p><strong>May:</strong> 7, 14, 28 (no class on May 21st)</p>
 <p><strong>June:</strong> 4, 11, 18, 25</p>
