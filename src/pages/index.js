@@ -75,7 +75,7 @@ function IndexPage() {
     <p><strong>July:</strong>  9, 16, 23, 30 (no class on July 2)</p>
     <p><strong>August:</strong>  13, 20, 27 (no class on Aug. 6)</p>
     <p><strong>September:</strong>  will be CLOSED, class will resume on Oct. 7</p>
-    <p><strong>Sep:</strong> 7 @7-9pm</p>
+    <p><strong>October:</strong> 7 @7-9pm</p>
 <p></p>
         <p><strong>Weapon Class Schedule:</strong> Oct. 7 @9-10pm</p>
 
