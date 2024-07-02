@@ -69,15 +69,15 @@ function IndexPage() {
         <h1>2024 Class Schedule:</h1>
        
         <p>
-          <em>Every Tuesday from 8pm-10pm</em>
+          <em>Every Tuesday from 7-10pm</em>
         </p>
-        
-        <p><strong>March:</strong> 5, 19, 26 (no class on March 12)</p>
-<p><strong>April:</strong> 9, 16, 23, 30 ( no class on April 2nd)</p>
-<p><strong>May:</strong> 7, 14, 28 (no class on May 21st)</p>
-<p><strong>June:</strong> 4, 11, 18, 25</p>
-<p><strong>Tentative schedule for new class and/or weapon class:</strong>  July 9, 16, 23, 30 (no class on July 2nd)</p>
-<p><strong>Aug:</strong> 13, 20, 27 ( no class on Aug. 6)</p>
+
+    <p><strong>July:</strong>  9, 16, 23, 30 (no class on July 2)</p>
+    <p><strong>August:</strong>  13, 20, 27 (no class on Aug. 6)</p>
+    <p><strong>September:</strong>  will be CLOSED, class will resume on Oct. 7</p>
+    <p><strong>Sep:</strong> 7 @7-9pm</p>
+<p></p>
+        <p><strong>Weapon Class Schedule:</strong> Oct. 7 @9-10pm</p>
 
   
       </div>
