@@ -78,7 +78,7 @@ function IndexPage() {
 <p><strong>**August</strong> 13 and 20 - weapon class will relocate at a different location (TBD) due church’s special events!</p>
 <p><strong>September:</strong> No class for this month!</p>
 <p>** Weapon Class Schedule starting on July 9 @9 - 10pm</p>
-<p>** New Class Schedule starting on October 7 @7- 9 pm</p>
+<p>** New Class Schedule starting on October 1 @7- 9 pm</p>
   
   
       </div>
