@@ -75,7 +75,7 @@ function IndexPage() {
     <p><strong>July:</strong>  9, 16, 23, 30 (no class on July 2)</p>
     <p><strong>August:</strong>  13, 20, 27 (no class on Aug. 6)</p>
 
-<p><strong>**August</strong> 13 and 20 - weapon class will relocate at a different location (TBD) due church’s special events!</p>
+<p><strong>**August</strong> 13 and 20 - weapon class will relocate at a different location (TBD) due to church’s special events!</p>
 <p><strong>September:</strong> No class for this month!</p>
 <p>** Weapon Class Schedule starting on July 9 @9 - 10pm</p>
 <p>** New Class Schedule starting on October 1 @7- 9 pm</p>
