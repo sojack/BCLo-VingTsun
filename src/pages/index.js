@@ -72,14 +72,17 @@ function IndexPage() {
           <em>Every Tuesday from 7-10pm</em>
         </p>
 
-    <p><strong>July:</strong>  9, 16, 23, 30 (no class on July 2)</p>
-    <p><strong>August:</strong>  13, 20, 27 (no class on Aug. 6)</p>
+    // <p><strong>July:</strong>  9, 16, 23, 30 (no class on July 2)</p>
+    // <p><strong>August:</strong>  13, 20, 27 (no class on Aug. 6)</p>
 
-<p><strong>**August</strong> 13 and 20 - weapon class will relocate at a different location (TBD) due to church’s special events!</p>
-<p><strong>September:</strong> No class for this month!</p>
+// <p><strong>**August</strong> 13 and 20 - weapon class will relocate at a different location (TBD) due to church’s special events!</p>
+
+    <p><strong>September:</strong> No class for this month!</p>
 <p>** Weapon Class Schedule starting on July 9 @9 - 10pm</p>
 <p>** New Class Schedule starting on October 1 @7- 9 pm</p>
-  
+<p><strong>October:</strong> 1, 8, 29 (no classes on 15 & 22)</p>
+<p><strong>November:</strong> 5, 12, 19, 26</p>
+<p><strong>December:</strong> 3, 10, 17 (X’mas break on 24 & 31)</p>
   
       </div>
       <div className="item item_009 link">
