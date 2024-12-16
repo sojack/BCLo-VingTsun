@@ -66,7 +66,7 @@ function IndexPage() {
       </div>
       <div className="item item_008 main_txt">
         {/* _____SCHEDULE____ */}
-        <h1>2024 Class Schedule:</h1>
+        <h1>Class Schedule:</h1>
        
         <p>
           <em>Every Tuesday from 7-10pm</em>
