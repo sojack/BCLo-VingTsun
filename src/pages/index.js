@@ -73,12 +73,12 @@ function IndexPage() {
         </p>
 
 
-    <p><strong>September:</strong> No class for this month!</p>
-<p>** Weapon Class Schedule starting on July 9 @9 - 10pm</p>
-<p>** New Class Schedule starting on October 1 @7- 9 pm</p>
-<p><strong>October:</strong> 1, 8, 29 (no classes on 15 & 22)</p>
-<p><strong>November:</strong> 5, 12, 19, 26</p>
+
 <p><strong>December:</strong> 3, 10, 17 (X’mas break on 24 & 31)</p>
+<p><strong>January:</strong> 7, 14, 21 (no class on Jan 28 - Chinese New Year Eve)</p>
+<p><strong>February:</strong> 4, 11, 25 (no class on Feb.18 - Family Day long weekend)</p>
+<p><strong>March:</strong> 4, 18, 25 (no class on Mar. 11 - March Break week)</p>
+
   
       </div>
       <div className="item item_009 link">
