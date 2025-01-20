@@ -27,6 +27,7 @@ const Gallery = () => {
 
 //   console.log(data)
 	const GalleryCaptions = [
+		'Graduation dinner 2024',
 		'',
 		'',
 		'',
@@ -49,9 +50,8 @@ const Gallery = () => {
 		'',
 		'',
 		'',
-		'',
-		'',
-		'',
+		'Christmas 2024 night snack gathering',
+		'Christmas 2024 night snack gathering',
 		'Christmas 2023 night snack gathering',
 		'Christmas 2023 night snack gathering',
 		'Graduation Day Demonstration',
