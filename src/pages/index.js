@@ -69,15 +69,16 @@ function IndexPage() {
         <h1>Class Schedule:</h1>
        
         <p>
-          <em>Every Tuesday from 7-10pm</em>
+          <em>Every Tuesday from 7-9pm</em>
         </p>
 
 
 
-<p><strong>December:</strong> 3, 10, 17 (X’mas break on 24 & 31)</p>
-<p><strong>January:</strong> 7, 14, 21 (no class on Jan 28 - Chinese New Year Eve)</p>
-<p><strong>February:</strong> 4, 11, 25 (no class on Feb.18 - Family Day long weekend)</p>
 <p><strong>March:</strong> 4, 18, 25 (no class on Mar. 11 - March Break week)</p>
+<p><strong>April:</strong>  1st, 8, 15, 29 (no class on 22nd)</p>
+<p><strong>May:</strong> 6, 13, 27 (no class on 20th)</p>
+<p><strong>June:</strong> 3, 10, 17, 24</p>
+<p><strong>July:</strong> 8, 15, 22, 29 (no class on 1st)</p>
 
   
       </div>
