@@ -73,11 +73,6 @@ function IndexPage() {
         </p>
 
 
-
-// <p><strong>March:</strong> 4, 18, 25 (no class on Mar. 11 - March Break week)</p>
-// <p><strong>April:</strong>  1st, 8, 15, 29 (no class on 22nd)</p>
-// <p><strong>May:</strong> 6, 13, 27 (no class on 20th)</p>
-// <p><strong>June:</strong> 3, 10, 17, 24</p>
 <p><strong>July:</strong> 8, 15, 22, 29 (no class on 1st)</p>
 <p><strong>August:</strong> 12, 19, 26</p>
 <p><strong>September:</strong> 9, 16, 23, 30</p>
