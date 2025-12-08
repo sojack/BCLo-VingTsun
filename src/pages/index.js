@@ -73,12 +73,11 @@ function IndexPage() {
         </p>
 
 
-<p><strong>July:</strong> 8, 15, 22, 29 (no class on 1st)</p>
-<p><strong>August:</strong> 12, 19, 26</p>
-<p><strong>September:</strong> 9, 16, 23, 30</p>
-<p><strong>October:</strong> 7, 21, 28</p>
-<p><strong>**November off**</strong></p>
 <p><strong>December:</strong> 2, 9, 16</p>
+<p><strong>January:</strong> 6, 13, 20, 27</p>
+<p><strong>February:</strong> 3, 10, 24</p>
+<p><strong>March:</strong>3, 10, 24, 31</p>
+<p><strong>April:</strong> 14, 21, 28</p>
 
   
       </div>
