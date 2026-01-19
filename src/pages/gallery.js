@@ -27,6 +27,19 @@ const Gallery = () => {
 
 //   console.log(data)
 	const GalleryCaptions = [
+		'',
+		'',
+		'',
+		'',
+		'',
+		'',
+		'',
+		'',
+		'',
+		'',
+		'',
+		'',
+		'',
 		'Graduation dinner 2024',
 		'',
 		'',
