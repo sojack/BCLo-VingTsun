@@ -66,14 +66,13 @@ function IndexPage() {
       </div>
       <div className="item item_008 main_txt">
         {/* _____SCHEDULE____ */}
-        <h1>Class Schedule:</h1>
+        <h1>2026 Class Schedule:</h1>
        
         <p>
           <em>Every Tuesday from 7-9pm</em>
         </p>
 
 
-<p><strong>December:</strong> 2, 9, 16</p>
 <p><strong>January:</strong> 6, 13, 20, 27</p>
 <p><strong>February:</strong> 3, 10, 24</p>
 <p><strong>March:</strong>3, 10, 24, 31</p>
